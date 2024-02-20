@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akram Mohammad Gari</h1>
 
 <p align="center">
-  <img src="https://github.com/Akram0004/Akram0004/blob/main/assets/125110989/510a7c47-18a2-4d17-9335-4fbd9028936d.png?raw=true" alt="Screenshot 2024-02-01 151552" width="500"/>
+  
+![Screenshot 2024-02-01 151552](https://github.com/Akram0004/Akram0004/assets/125110989/510a7c47-18a2-4d17-9335-4fbd9028936d)
+
 </p>
+
 
 -----
 
