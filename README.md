@@ -1,21 +1,16 @@
 <h1 align="center">Hi 👋, I'm Akram Mohammad Gari</h1>
 
 <p align="center">
-  
-![Screenshot 2024-02-01 151552](https://github.com/Akram0004/Akram0004/assets/125110989/510a7c47-18a2-4d17-9335-4fbd9028936d)
-
+  <img src="https://github.com/Akram0004/Akram0004/blob/main/assets/125110989/510a7c47-18a2-4d17-9335-4fbd9028936d.png?raw=true" alt="Screenshot 2024-02-01 151552" width="500"/>
 </p>
 
 -----
+
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram0004&label=Profile%20views&color=0e75b6&style=flat" alt="akram0004" /> </p>
 
-
-
 <h3 align="left">Connect with me:</h3>
-
-###
 
 <div align="left">
   <a href="https://www.instagram.com/mg_akram_03/" target="_blank">
@@ -32,12 +27,7 @@
   </a>
 </div>
 
-  
 ### Languages and Tools
-
-<p>
- 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -54,15 +44,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
- 
-  
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram0004&layout=compact&langs_count=8&theme=radical" alt="akram0004" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akram0004&show_icons=true&locale=en&layout=compact" alt="akram0004" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akram0004&show_icons=true&theme=radical" alt="akram0004" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akram0004&show_icons=true&locale=en" alt="akram0004" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram0004&theme=radical" alt="akram0004" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram0004&" alt="akram0004" /></p>
 
 
 
