@@ -9,7 +9,7 @@
 
 -----
 
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate folk</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akram0004&label=Profile%20views&color=0e75b6&style=flat" alt="akram0004" /> </p>
 
@@ -33,30 +33,19 @@
 ### Languages and Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+ 
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+
 </div>
 
 
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram0004&layout=compact&langs_count=8&theme=radical" alt="akram0004" />
-</p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akram0004&show_icons=true&theme=radical" alt="akram0004" />
-</p>
+
+
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akram0004&theme=radical" alt="akram0004" />
