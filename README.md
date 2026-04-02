@@ -1,16 +1,10 @@
 <h1 align="center">🚀 Hi 👋, I'm Akram Mohammad Gari 🚀</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Enthusiast;.NET+Core+Developer;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Developer;Cloud+Enthusiast;.NET+Core+Developer;Always+Learning" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  ![Screenshot 2024-02-01 151552](https://github.com/Akram0004/Akram0004/assets/125110989/510a7c47-18a2-4d17-9335-4fbd9028936d)
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akram0004&label=Profile%20views&color=00D9FF&style=flat-square" alt="akram0004" />
-</p>
 
 ---
 
