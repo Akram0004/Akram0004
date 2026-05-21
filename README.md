@@ -14,7 +14,7 @@
 
 ## ✨ About Me
 
-<img align="right" src="https://media.giphy.com/media/W5eoZHnObS0x2/giphy.gif" width="200px" alt="dev"/>
+
 
 - 🔭 **Currently working on:** Innovative backend & cloud solutions
 - 🌱 **Learning:** Advanced .NET Core & Cloud Architecture
@@ -91,10 +91,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akram0004&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akram0004&theme=tokyonight&layout=compact" alt="Top Languages" />
-</div>
+
 
 ---
 
@@ -113,7 +110,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave"/> 
+
   <b>Let's build something extraordinary together!</b>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="25px" alt="wave"/>
+  
 </div>
